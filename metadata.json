@@ -1,0 +1,6 @@
+{
+  "name": "Build Cool Things With AI",
+  "description": "Official brand website and educational hub for 'Build Cool Things With AI'. Explore YouTube episodes, web/AI projects, source code, interactive roadmaps, and connect with our development community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

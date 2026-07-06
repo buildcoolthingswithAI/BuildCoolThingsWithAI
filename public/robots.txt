@@ -1,0 +1,5 @@
+# Robots.txt for Build Cool Things With AI
+User-agent: *
+Allow: /
+
+Sitemap: https://build-cool-things-with-ai.vercel.app/sitemap.xml
